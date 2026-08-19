@@ -72,24 +72,11 @@ Proportional-symbol comparison charts · histogram (seating capacity) · interac
 
 ---
 
-## Files
 
-```
-starbucks-infographic-tableau/
-├── README.md
-├── images/
-│   └── dashboard.png            # full infographic screenshot
-├── Dashboard_1.pdf              # PDF export of the data story
-└── Starbucks-Analysis.twbx      # packaged Tableau workbook (optional)
-```
-
----
 
 ## How to View
 
 - **Easiest:** open the [live version on Tableau Public](https://public.tableau.com/app/profile/nhu.xuan.anh.nguyen/viz/StarbucksAnalysis-FIT3179Assignment1/Dashboard1) — fully interactive, no install needed.
-- **Static view:** see `Dashboard_1.pdf` in this repository.
-- **To open the workbook:** download the `.twbx` and open it in Tableau Desktop or the free Tableau Reader.
 
 ---
 
